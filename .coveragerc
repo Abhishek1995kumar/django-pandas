@@ -1,4 +1,0 @@
-[run]
-source = django_pandas
-omit = django_pandas/tests/*
-branch = 1
